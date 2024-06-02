@@ -55,7 +55,7 @@ main{
     animation: rotate 1.5s ease-in-out  1;
 }
 /*create n animation for the hover effect*/
-@keyframes otate {
+@keyframes rotate {
     0%{
         transform: rotate(-10deg);
     }
